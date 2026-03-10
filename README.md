@@ -9,3 +9,17 @@ Using R and data visualization techniques, the project examines three key questi
 - How do walkability scores vary across U.S. Census regions?
 
 The analysis uses data from the EPA Smart Location Database and visualizes patterns using choropleth maps, stacked bar charts, and regional boxplots. 
+## Tools Used
+
+- R
+- dplyr
+- ggplot2
+- readr
+- maps
+- Excel
+
+- ## Key Insights
+
+- Walkability is unevenly distributed across the U.S., with higher scores concentrated in the Northeast and West Coast.
+- Many states contain small pockets of highly walkable areas but large populations in car-dependent neighborhoods.
+- Regional analysis shows the Northeast has the highest typical walkability while the South contains many of the lowest-scoring areas.
