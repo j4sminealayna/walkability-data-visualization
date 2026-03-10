@@ -8,4 +8,4 @@ Using R and data visualization techniques, the project examines three key questi
 - What share of residents live in the most vs least walkable neighborhoods?
 - How do walkability scores vary across U.S. Census regions?
 
-The analysis uses data from the EPA Smart Location Database and visualizes patterns using choropleth maps, stacked bar charts, and regional boxplots. :contentReference[oaicite:0]{index=0}
+The analysis uses data from the EPA Smart Location Database and visualizes patterns using choropleth maps, stacked bar charts, and regional boxplots. 
