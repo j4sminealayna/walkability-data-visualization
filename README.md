@@ -18,7 +18,7 @@ The analysis uses data from the EPA Smart Location Database and visualizes patte
 - maps
 - Excel
 
-- ## Key Insights
+## Key Insights
 
 - Walkability is unevenly distributed across the U.S., with higher scores concentrated in the Northeast and West Coast.
 - Many states contain small pockets of highly walkable areas but large populations in car-dependent neighborhoods.
