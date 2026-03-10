@@ -18,6 +18,15 @@ The analysis uses data from the EPA Smart Location Database and visualizes patte
 - maps
 - Excel
 
+## Dataset
+
+This project uses the **EPA Smart Location Database**, a nationwide dataset that contains built-environment, demographic, and transportation indicators for every U.S. Census block group.
+
+The database includes variables related to land-use diversity, residential density, street network design, accessibility to destinations, transit access, and employment characteristics.
+
+Dataset source:
+https://catalog.data.gov/dataset/smart-location-database8
+
 ## Key Insights
 
 - Walkability is unevenly distributed across the U.S., with higher scores concentrated in the Northeast and West Coast.
